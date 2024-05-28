@@ -6,5 +6,5 @@ ADD . .
 #first . means git current location and last . means working directory
 # here path is the document root of the nginx web server
 EXPOSE 80
-EXPOSE 8080
+EXPOSE 8088
 # IT WILL BE SAME PORT AS NGINX
